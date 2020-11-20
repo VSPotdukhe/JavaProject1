@@ -1,11 +1,5 @@
 # JavaProject1
 
-Description:
--------------------------------------------------------------------------------------------------------
-Created simple Java Project by using HTML, CSS, JS, SQL, Java, Servlets and JSP
-
-
-
 Software configuration used:
 -------------------------------------------------------------------------------------------------------
 Windows 10 64-bit Operating System, 
