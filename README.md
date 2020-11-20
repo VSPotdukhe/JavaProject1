@@ -10,8 +10,10 @@ Software configuration used:
 -------------------------------------------------------------------------------------------------------
 Windows 10 64-bit Operating System, 
 Eclipse IDE EE: 2020-09 (4.17.0), 
+Java (jdk-15.0.1), 
 Apache Tomcat v9.0, 
-MySQL Workbench 8.0.22 (mysql-connector-java-8.0.22.jar)
+MySQL Workbench 8.0.22 (mysql-connector-java-8.0.22.jar), 
+JavaServer Pages Standard Tag Library (jstl-1.2.jar)
 
 
 
